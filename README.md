@@ -10,13 +10,6 @@
   Email：bswq2020@hotmail.com
 
 
-游戏截图
------------------------------------
-![github-1.jpg](/images/1.jpg "github-1.jpg")
-![github-2.jpg](/images/2.jpg "github-2.jpg")
-![github-3.jpg](/images/3.jpg "github-3.jpg")
-![github-4.jpg](/images/4.jpg "github-4.jpg")
-
 隐私政策
 -----------------------------------
   本应用尊重并保护所有使用服务用户的个人隐私权。
@@ -162,3 +155,11 @@
 7.本隐私政策的更改
 
 我们可能适时修订本《隐私政策》的条款，该等修订构成本《隐私政策》的一部分。如该等修订造成您在本《隐私政策》下权利的实质减少，我们将在修订生效前通主页上显著位置提示或向您发送电子邮件或以其他方式通知您。在该种情况下，若您继续使用我们的服务，即表示同意受经修订的本《隐私政策》的约束。
+
+
+游戏截图
+-----------------------------------
+![github-1.jpg](/images/1.jpg "github-1.jpg")
+![github-2.jpg](/images/2.jpg "github-2.jpg")
+![github-3.jpg](/images/3.jpg "github-3.jpg")
+![github-4.jpg](/images/4.jpg "github-4.jpg")
